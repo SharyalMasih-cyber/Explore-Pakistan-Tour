@@ -34,7 +34,7 @@ The purpose of this project is to introduce Pakistan's natural beauty, historica
 Screenshots of the website will be added here.
 
 ## 🌐 Live Website
-Live website link will be added after deployment.
+https://sharyalmasih-cyber.github.io/Explore-Pakistan-Tour/
 
 ## 📚 Learning & Reflection
 Through this project, I learned how AI tools and prompt engineering can support website creation. I also improved my understanding of project planning, website structure, and presenting information in an organized way.
