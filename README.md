@@ -43,3 +43,16 @@ Through this project, I learned how AI tools and prompt engineering can support 
 
 **Project:** Explore Pakistan Tour  
 **Created for:** AI-Powered Website Creation Assignment
+## 📸 Website Screenshots
+
+### Home Page
+![Home Page](Screenshot%202026-10-30%20052413.png)
+
+### Destinations
+![Destinations](Screenshot%202026-10-30%20052614.png)
+
+### Travel Reviews
+![Reviews](Screenshot%202026-10-30%20052833.png)
+
+### Plan Your Trip
+![Plan Your Trip](Screenshot%202026-10-30%20052908.png)
