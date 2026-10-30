@@ -56,3 +56,20 @@ Through this project, I learned how AI tools and prompt engineering can support 
 
 ### Plan Your Trip
 ![Plan Your Trip](Screenshot%202026-10-30%20052908.png)
+## Website Creation Prompt (Reconstructed from Project Code)
+
+Create a professional, modern, and responsive tourism website named **Explore Pakistan Tour** with the tagline **“More Than Just a Trip.”**
+
+The website should showcase Pakistan's famous tourist destinations, culture, food, and travel guidance. Use an attractive green and cream theme with a mountain-style hero section.
+
+Include these features:
+- Destination cards with search and category filters.
+- Detailed destination information, including culture, food, famous places, best time to visit, and travel tips.
+- Interactive Pakistan destination map.
+- Photo gallery with lightbox.
+- Travel packages and a trip-planning form.
+- Travel guide with safety tips and important restrictions.
+- Visitor reviews, ratings, and contact form.
+- Responsive navigation and footer.
+
+Use **HTML, CSS, and JavaScript** to create a user-friendly website that works on desktop and mobile devices. Use **ChatGPT** for AI-assisted website development.
